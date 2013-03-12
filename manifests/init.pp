@@ -3,7 +3,7 @@ class graphicsmagick {
 
   homebrew::formula {
     'graphicsmagick':
-      source => 'puppet:///modules/princexml/brews/graphicsmagick.rb',
+      source => 'puppet:///modules/graphicsmagick/brews/graphicsmagick.rb',
       before => Package['boxen/brews/graphicsmagick'] ;
   }
 
