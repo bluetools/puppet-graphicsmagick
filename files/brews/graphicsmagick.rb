@@ -10,7 +10,7 @@ end
 
 class Graphicsmagick < Formula
   homepage 'http://www.graphicsmagick.org/'
-  url 'http://downloads.sourceforge.net/project/graphicsmagick/graphicsmagick/1.3.17/GraphicsMagick-1.3.18.tar.bz2'
+  url 'http://downloads.sourceforge.net/project/graphicsmagick/graphicsmagick/1.3.18/GraphicsMagick-1.3.18.tar.bz2'
   sha256 'cb4e29543b2912657207016ad4c7a081a96b0e4a4d84520bd74d242b3d9a6a7e'
 
   version '1.3.18-boxen1'
