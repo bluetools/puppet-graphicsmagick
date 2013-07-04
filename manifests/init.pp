@@ -9,6 +9,6 @@ class graphicsmagick {
 
   package {
     'boxen/brews/graphicsmagick':
-      ensure => "1.3.17-boxen1";
+      ensure => "1.3.18-boxen1";
   }
 }
